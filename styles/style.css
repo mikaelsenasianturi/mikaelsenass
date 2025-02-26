@@ -193,7 +193,8 @@ nav ul li a {
 }
 
 .hero-right img {
-  width: 105%;
+  width: 155%;
+  padding-left: 30%;
 }
 
 .hero-right {
