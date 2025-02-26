@@ -263,9 +263,14 @@ nav ul li a {
   border: 1px solid var(--borderColor);
 }
 
-.portfolio-cover {
-  height: 250px;
+.portfolio-cover-2a {
+  height: 500px;
 }
+
+.portfolio-cover-1 {
+height: fit-content;
+}
+
 
 .portfolio img {
   width: 100%;
